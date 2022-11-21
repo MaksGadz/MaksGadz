@@ -1,4 +1,4 @@
-<h1> Hi there </h1>
+<h1><center> Hi there </center></h1>
 
 I am
 - studying computer science at TU Berlin
