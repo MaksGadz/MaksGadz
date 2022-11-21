@@ -1,4 +1,5 @@
-<h1><center> Hi there </center></h1>
+<h2><align='center'> Hi there </align></h2>
+<h3>About Me</h3>
 
 I am
 - studying computer science at TU Berlin
